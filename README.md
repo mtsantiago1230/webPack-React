@@ -1,1 +1,1 @@
-# react
+Descripción y cosas del proyecto
